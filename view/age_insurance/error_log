@@ -1,0 +1,47 @@
+[25-Jun-2018 03:02:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:03:10 UTC] PHP Notice:  Undefined index: txtCampo8 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/ctrl_insurance.php on line 86
+[25-Jun-2018 03:03:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:03:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:11:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:11:32 UTC] PHP Notice:  Undefined index: txtCampo8 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/ctrl_insurance.php on line 86
+[25-Jun-2018 03:11:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:11:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:58:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 10
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 11
+[27-Jun-2018 15:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 13
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 31
+[27-Jun-2018 15:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 72
+[27-Jun-2018 15:59:10 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 10
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 11
+[27-Jun-2018 15:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 13
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 31
+[27-Jun-2018 15:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:59:10 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 72
+[27-Jun-2018 15:59:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 10
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 11
+[27-Jun-2018 15:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 13
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 31
+[27-Jun-2018 15:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:59:17 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/index.php on line 72
+[27-Jun-2018 15:59:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:59:44 UTC] PHP Notice:  Undefined index: txtCampo8 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/ctrl_insurance.php on line 86
+[27-Jun-2018 15:59:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 15:59:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 16:06:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 16:06:39 UTC] PHP Notice:  Undefined index: txtCampo8 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_insurance/ctrl_insurance.php on line 86
+[27-Jun-2018 16:06:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 16:06:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[02-Nov-2018 20:28:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1

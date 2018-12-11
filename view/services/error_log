@@ -1,0 +1,6 @@
+[02-Nov-2018 20:17:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[09-Nov-2018 02:56:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[09-Nov-2018 02:56:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[09-Nov-2018 20:43:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[09-Nov-2018 20:50:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[09-Dec-2018 16:06:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1

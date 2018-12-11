@@ -1,0 +1,64 @@
+ *{
+  margin: 0px !important;
+  padding: 0px !important;
+  border-spacing: 0px !important;
+}
+td{
+  border-spacing: 0px !important;
+  margin-left: 3px;
+  margin-right: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+   text-transform: uppercase;
+}
+th{
+  background-color: #CCCCCC;
+}
+body{
+  font-family: Arial;
+}
+h1{
+  font-family: Arial 10px;
+  text-transform: uppercase;
+}
+#impre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+}
+input[type="text"]{
+        border-color: transparent;
+        border-style: none !important; font-family: Arial, Helvetica, sans-serif;
+        text-transform: uppercase;
+    font-size: 10px;
+}
+input[type="text"]:focus{
+       border-color: transparent !important;
+        border-style: none !important;
+        outline: none; 
+         font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+input[type="text"]:disabled {
+    background: transparent !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color:black;
+}
+
+#visible{
+  visibility: hidden !important;
+}
+
+#ocultar{
+	visibility: hidden;
+}
+.visi{
+  visibility: hidden !important;
+}
+@page { size: landscape; }

@@ -1,0 +1,102 @@
+[25-Jun-2018 02:58:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:01:08 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 123
+[25-Jun-2018 03:01:08 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 130
+[25-Jun-2018 03:01:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:01:08 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/add_rate.php on line 6
+[25-Jun-2018 03:01:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[25-Jun-2018 03:01:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:01:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:01:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:03:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:03:51 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[25-Jun-2018 03:03:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:03:51 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/index.php on line 10
+[25-Jun-2018 03:03:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[25-Jun-2018 03:03:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[25-Jun-2018 03:03:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:03:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:04:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:06:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:07:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:07:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:08:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:10:20 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 123
+[25-Jun-2018 03:10:20 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 130
+[25-Jun-2018 03:10:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:10:20 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/add_rate.php on line 6
+[25-Jun-2018 03:10:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[25-Jun-2018 03:10:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:12:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:12:34 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:12:34 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:12:46 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 172
+[25-Jun-2018 03:12:46 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 179
+[25-Jun-2018 03:12:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:12:46 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:12:46 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:12:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:13:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:13:53 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:13:53 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:13:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:14:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:14:04 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:14:04 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:14:13 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 172
+[25-Jun-2018 03:14:13 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 179
+[25-Jun-2018 03:14:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:14:13 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:14:13 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[25-Jun-2018 03:14:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:41:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:42:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:42:57 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[27-Jun-2018 15:42:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[27-Jun-2018 15:45:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:45:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:45:48 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[27-Jun-2018 15:45:48 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[27-Jun-2018 15:49:56 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 172
+[27-Jun-2018 15:49:56 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 179
+[27-Jun-2018 15:49:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 15:49:56 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[27-Jun-2018 15:49:56 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/upd_rate.php on line 12
+[27-Jun-2018 15:49:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 16:03:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 16:05:12 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 123
+[27-Jun-2018 16:05:12 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 130
+[27-Jun-2018 16:05:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 16:05:12 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/add_rate.php on line 6
+[27-Jun-2018 16:05:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 16:05:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[02-Nov-2018 20:26:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:27:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:27:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:27:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:28:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:28:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/index.php on line 10
+[13-Nov-2018 20:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[13-Nov-2018 20:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 123
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  Undefined index: txtCampo17 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 124
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  Undefined index: txtCampo18 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 125
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 130
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/add_rate.php on line 6
+[13-Nov-2018 20:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[13-Nov-2018 20:29:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 22:59:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/index.php on line 10
+[13-Nov-2018 23:00:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[13-Nov-2018 23:00:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  Undefined index: txtCampo16 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 123
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  Undefined index: txtCampo17 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 124
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  Undefined index: txtCampo18 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 125
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  Undefined index: checkCC in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/ctrl_rate.php on line 130
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[13-Nov-2018 23:00:24 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_rate/add_rate.php on line 6
+[13-Nov-2018 23:00:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[13-Nov-2018 23:00:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1

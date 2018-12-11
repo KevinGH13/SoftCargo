@@ -1,0 +1,30 @@
+[04-Jul-2018 00:28:49 UTC] PHP Notice:  Undefined index: id_g in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/ctrl_group.php on line 4
+[04-Jul-2018 00:28:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[04-Jul-2018 00:28:49 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 37
+[04-Jul-2018 00:28:49 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 39
+[04-Jul-2018 00:28:49 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 40
+[04-Jul-2018 00:28:49 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 41
+[04-Jul-2018 00:28:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[04-Jul-2018 00:29:32 UTC] PHP Notice:  Undefined index: id_g in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/ctrl_group.php on line 4
+[04-Jul-2018 00:29:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[04-Jul-2018 00:29:32 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/index.php on line 48
+[04-Jul-2018 00:29:32 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/index.php on line 50
+[04-Jul-2018 00:29:32 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/index.php on line 51
+[04-Jul-2018 00:29:32 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/index.php on line 52
+[04-Jul-2018 00:29:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[04-Jul-2018 00:29:39 UTC] PHP Fatal error:  Cannot redeclare listData() (previously declared in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php:18) in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 78
+[04-Jul-2018 00:30:16 UTC] PHP Fatal error:  Cannot redeclare listData() (previously declared in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php:18) in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 78
+[02-Nov-2018 20:21:01 UTC] PHP Notice:  Undefined index: id_g in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/ctrl_group.php on line 4
+[02-Nov-2018 20:21:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[02-Nov-2018 20:21:01 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 37
+[02-Nov-2018 20:21:01 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 39
+[02-Nov-2018 20:21:01 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 40
+[02-Nov-2018 20:21:01 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 41
+[02-Nov-2018 20:21:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[02-Nov-2018 20:21:08 UTC] PHP Notice:  Undefined index: id_g in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/ctrl_group.php on line 4
+[02-Nov-2018 20:21:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[02-Nov-2018 20:21:08 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 37
+[02-Nov-2018 20:21:08 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 39
+[02-Nov-2018 20:21:08 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 40
+[02-Nov-2018 20:21:08 UTC] PHP Notice:  Undefined variable: listData2 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/group/add_group.php on line 41
+[02-Nov-2018 20:21:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62

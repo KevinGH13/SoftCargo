@@ -1,0 +1,58 @@
+
+    [draggable] {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  /* Required to make elements draggable in old WebKit */
+  -khtml-user-drag: element;
+  -webkit-user-drag: element;
+}
+.column {
+  height: 40px;
+  width: 205px;
+  float: left;
+  border: 2px solid #666666;
+  background-color: #F15958;
+  margin-right: 5px;
+  -webkit-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+clear: both;
+  text-align: center;
+  cursor: move;
+    -webkit-transition:  0.8s; /* Safari */
+    transition: 0.8s;
+}
+.column header {
+  
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -ms-border-radius-topleft: 10px;
+  -ms-border-top-right-radius: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  background: #F15958 ;
+  
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  clear: both;
+  color: #fff;
+  font-weight: bold;
+  padding: 5px;
+  
+}
+.column:hover {
+  height: 50px;
+  width: 215px;
+
+}
+.column.over {
+  border: 2px dashed #000;
+}
+#trAgente {
+	visibility:hidden;
+  -webkit-transition:  0.8s; /* Safari */
+    transition: 0.8s;
+}

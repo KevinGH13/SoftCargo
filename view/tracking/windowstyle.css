@@ -1,0 +1,53 @@
+.ventana{
+    width: 100%;
+    height: 100%;
+    color: #5d4a4a;
+    position: fixed;
+     top: 0;
+         z-index: 1;
+    display:none;
+}
+.formModal{
+    width: auto;
+    height: initial;
+    padding: 25px;
+    background-color: #374259;
+    color: #666;
+    top: 8%;
+    left: 30%;
+    position: absolute;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 5px solid #9E9E9E;
+
+
+}
+.cerrar{
+        font-weight: 900;
+    text-align: right;
+    background: #4CAF50;
+    float: right;
+    display: block;
+    width: 21%;
+    text-align: center;
+    list-style: none;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 5px 5px;
+    border: 1px solid #040404;
+}
+.cerrar a{
+    color: #fff;
+}
+#WindowLoad
+{
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index:3200;
+    filter:alpha(opacity=65);
+   -moz-opacity:65;
+    opacity:0.65;
+    background:#999;
+}

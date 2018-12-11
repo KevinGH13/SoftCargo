@@ -1,0 +1,81 @@
+#table1{
+	 margin-left:60px !important;
+	 margin-top:50px !important;
+	 z-index:1 !important;
+	position:absolute !important;
+	height: 300px ;
+	opacity: 0.5 !important;
+}
+input[type="text"]{
+	background: #FFFFFF !important;
+    border: 1px solid #391515 !important;
+    border-radius: 5px !important;
+    color: #333 !important;
+    font-weight: 550 !important;
+    height: 15px !important;
+    text-align: left !important;
+    padding-left: 0px !important;
+    font-size: 13px !important;
+
+}
+
+
+
+
+#column-left {
+    
+    float: left;
+    position: fixed;
+    z-index: 2;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+    
+  
+}
+
+#table2{
+	 margin-left:42px !important;;
+	 margin-top:338px !important;;
+	 z-index:1 !important;;
+	position:absolute !important;;
+	height: 143px !important;;
+	opacity: 0.5 !important;;
+}
+#tablepieces{
+	 margin-left:42px !important;;
+	 margin-top:588px !important;;
+	 z-index:1 !important;;
+	position:absolute !important;;
+	height: 152px !important;;
+		
+}
+#table4{
+	 margin-left:439px !important;;
+	 margin-top:270px !important;;
+	 z-index:1 !important;;
+	position:absolute !important;;
+	height: 217px !important;;
+	
+}
+#tablbs{
+	 margin-left:92px !important;;
+	 margin-top:612px !important;;
+	 z-index:1 !important;;
+	position:absolute !important;;
+	height: 178px !important;;
+}
+#tablcobr{
+	 margin-left:46px !important;;
+	 margin-top:843px !important;;
+	 z-index:1 !important;;
+	position:absolute !important;;
+	height: 182px !important;;
+}
+#tablcobrtotl{
+	 margin-left:41px !important;;
+	 margin-top:1078px !important;;
+	 z-index:1 !important;;
+	position:absolute !important;;
+	height: 74px !important;;
+}

@@ -1,0 +1,9 @@
+[02-Nov-2018 20:22:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[15-Nov-2018 15:34:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[15-Nov-2018 19:16:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[15-Nov-2018 19:16:06 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 5
+[15-Nov-2018 19:16:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[15-Nov-2018 19:16:06 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/menu.php on line 38
+[15-Nov-2018 19:16:06 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/menu.php on line 39
+[15-Nov-2018 19:16:06 UTC] PHP Notice:  Undefined variable: vrcIcoP_vuelo in /home/easycargopro/public_html/ECP_Sent_Cargo/view/menu.php on line 42
+[15-Nov-2018 19:16:06 UTC] PHP Notice:  Undefined variable: int_ID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/menu.php on line 110

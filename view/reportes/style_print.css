@@ -1,0 +1,18 @@
+      *{
+        margin: 0px !important;
+        padding: 0px !important;
+        border-spacing: 0px !important;
+        color: #000 !important;
+        font-size: 0.94em;
+      }
+      td{
+        border-spacing: 0px !important;
+        text-align: center;
+
+      }
+       .btn{
+        display: none !important;
+      }
+      button{
+      	 display: none !important;
+      }

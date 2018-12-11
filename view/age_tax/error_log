@@ -1,0 +1,92 @@
+[25-Jun-2018 03:01:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:01:43 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[25-Jun-2018 03:02:31 UTC] PHP Notice:  Undefined index: txtCampo9 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/ctrl_tax.php on line 102
+[25-Jun-2018 03:02:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:02:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:02:31 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[25-Jun-2018 03:10:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:10:31 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[25-Jun-2018 03:10:57 UTC] PHP Notice:  Undefined index: txtCampo9 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/ctrl_tax.php on line 102
+[25-Jun-2018 03:10:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[25-Jun-2018 03:10:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[25-Jun-2018 03:10:57 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:15 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 10
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 11
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 46
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 10
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 11
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 46
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 10
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 11
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 46
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 275
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 10
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 11
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 46
+[27-Jun-2018 15:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:57 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:56:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:58 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:56:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:56:59 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined index: id_Age in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 10
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 11
+[27-Jun-2018 15:57:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 12
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 46
+[27-Jun-2018 15:57:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 62
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: intID in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:57:06 UTC] PHP Notice:  Undefined variable: intID_Agente in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 86
+[27-Jun-2018 15:57:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:57:07 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 15:57:32 UTC] PHP Notice:  Undefined index: txtCampo9 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/ctrl_tax.php on line 102
+[27-Jun-2018 15:57:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 15:57:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 15:57:32 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 16:05:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 16:05:41 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[27-Jun-2018 16:06:06 UTC] PHP Notice:  Undefined index: txtCampo9 in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/ctrl_tax.php on line 102
+[27-Jun-2018 16:06:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/modelo.php on line 390
+[27-Jun-2018 16:06:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[27-Jun-2018 16:06:06 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
+[02-Nov-2018 20:27:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/easycargopro/public_html/ECP_Sent_Cargo/view/ctrl_menu.php on line 1
+[02-Nov-2018 20:27:14 UTC] PHP Notice:  Undefined variable: listData in /home/easycargopro/public_html/ECP_Sent_Cargo/view/age_tax/index.php on line 14
