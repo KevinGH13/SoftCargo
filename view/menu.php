@@ -28,7 +28,12 @@
                 <!--<li><a href="../currency/index.php ">&rsaquo; Histórico de Guías</a>-->
               
             </ul>
-
+        <li class="pickups"><i class="fas fa-box-open"></i><strong> Pickups</strong>
+            <ul class="menuPi">
+                <!--<li><a href="../tracking/add_tracking.php ">&rsaquo; Boxes Delivery</a><li>-->
+                <li><a href="../pickups/boxes_delivery.php ">&rsaquo; Boxes Delivery</a><li>
+            </ul>
+        </li>
         <li class="agente"><i class="<?php echo $vrcIcoAgentes ?>"  ></i><strong> <?php echo $vrc_Agentes ?></strong>
             <ul  class="menuEm">
                 <li><a href="../agents/add_agent.php ">Agregar Agente</a></li>

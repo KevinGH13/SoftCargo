@@ -4,18 +4,11 @@
 
 		var  txtCampo;
 		$(document).ready(function() {
-
-
-			
-
 				$("#txtCampo24").change(function(){
             strUser = $('select[id=txtCampo24]').val();
              
             changuser(strUser);
 			});
-
-     
-			
 
 		});
 
@@ -55,11 +48,6 @@
 
   }
  }
-
-
-
-
-
 
 
     var dragSrcEl = null;
@@ -105,18 +93,18 @@ if (e.stopPropagation) {
   	
     // Set the source column's HTML to the HTML of the columnwe dropped on.
     //dragSrcEl.innerHTML = this.innerHTML;
-  var midato = e.dataTransfer.getData('text/html');
-  var divsoltar = document.getElementById("soltar");
+    var midato = e.dataTransfer.getData('text/html');
+    var divsoltar = document.getElementById("soltar");
 
-        var count = dragSrcEl.querySelector('.count');
-      var newCount = String(count.getAttribute('data-col-moves')) ;
-           if(txtCampo ==null){
-    txtCampo = newCount+"=on" ;setTimeout(function(){add_toast('showSuccessToast','Item Agregado');},960);}
-    else{txtCampo = txtCampo+"&"+newCount+"=on"; setTimeout(function(){add_toast('showSuccessToast','Item Agregado');},960);}
+    var count = dragSrcEl.querySelector('.count');
+    var newCount = String(count.getAttribute('data-col-moves')) ;
+    if(txtCampo ==null){
+      txtCampo = newCount+"=on" ;setTimeout(function(){add_toast('showSuccessToast','Item Agregado');},960);}
+      else{txtCampo = txtCampo+"&"+newCount+"=on"; setTimeout(function(){add_toast('showSuccessToast','Item Agregado');},960);}
     cuenta = (dragSrcEl.innerHTML)+cuenta;
     divsoltar.style.background='#F15958';
-     // count.setAttribute('data-col-moves', newCount);
-      this.querySelector('.count').innerHTML = cuenta ;
+    // count.setAttribute('data-col-moves', newCount);
+    this.querySelector('.count').innerHTML = cuenta ;
 
    
      dragSrcEl.style.visibility = 'hidden' ;

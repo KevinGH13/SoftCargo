@@ -1,5 +1,4 @@
 ﻿<?php session_start();  ?>
-
 <?php
 	if(isset($_SESSION['id'])){	$int_ID = $_SESSION['id']; $tp_user = $_SESSION['int_tp'];}else{echo "<script>window.open('../../index.php','_self');</script>";}
 	$vrcCondition = "int_ID = ".$int_ID;
@@ -7,6 +6,7 @@
 	//OPCIONES DE MENU
 	$vrc_Instalacion = '';
 	$vrc_Courier = '';
+	$vrc_Pickups = '';
 	$vrc_Estados = '';
 	$vrc_Reajustes = '';
 	$vrc_P_vuelo ='';
@@ -48,6 +48,7 @@
 	//ICONOS
 	$vrcIcoInstalacion = '';
 	$vrcIcoCourier = '';
+	$vrcIcoPickups = '';
 	$vrcIcoEstados = '';
 	$vrcIcoAgentes = '';
 	$vrcIcoSubAgentes = '';

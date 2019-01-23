@@ -99,7 +99,7 @@ $int_tp = $_SESSION['int_tp'];
 			"tbl_Usuarios",
 			"var_Usuario,var_Contrasena,var_Nombre, 
 				bol_Instalacion, bol_Reajustes,  bol_UsuUsuarios, bol_UsuLogs,
-				bol_AgeAgentes, bol_AgeTarifas,bol_AgeSeguros, bol_AgeImpuestos,  bol_AgeDivisas,
+				bol_AgeAgentes, bol_AgeTarifas, bol_AgeSeguros, bol_AgeImpuestos, bol_AgeDivisas,
 				bol_TraTransportador,bol_TraTarifas, bol_TraSeguros, bol_TraRutas, 
 				bol_SubAgentes, bol_SubTarifas, bol_SubSeguros, bol_SubImpuestos,
 				 bol_Estados, int_Activo,int_tipo,int_emp,int_IDagente,

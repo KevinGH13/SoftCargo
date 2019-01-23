@@ -89,51 +89,56 @@
             </tr>
              </table>
 
-<div id="columns" style="display: inline-block;">
-<table >
-<tr><td><div draggable="true" class="column"><header>Crear Usuario</header>
-<div class="count" data-col-moves="txtCampo6"></div></div></td></tr>
-  <tr><td><div class="column" draggable="true"><header>Consultar Todas Las facturas</header>
-  <div class="count" data-col-moves="txtCampoExt1"></div></div></td></tr>
-  <tr><td><div class="column" draggable="true"><header>Crear Agentes</header>
-  <div class="count" data-col-moves="txtCampo8"></div></div></td></tr>
-  <tr><td><div class="column" draggable="true"><header>Estados De carga</header>
-  <div class="count" data-col-moves="txtCampo22"></div></div></td></tr>
-  <tr><td><div class="column" draggable="true"><header> Consolidados & GrpCon</header>
-  <div class="count" data-col-moves="txtCampoExt2"></div></div></td></tr>
- <tr><td><div class="column" draggable="true"><header> Tranporte</header>
-  <div class="count" data-col-moves="txtCampo13"></div></div></td></tr>
+    <div id="columns" style="display: inline-block;">
+        <table >
+            <tr><td><div draggable="true" class="column"><header>Crear Usuario</header>
+            <div class="count" data-col-moves="txtCampo6"></div></div></td></tr>
 
-   <tr><td><div class="column" draggable="true"><header>Crear Facturas</header>
-  <div class="count" data-col-moves="txtCampoExt3"></div></div></td></tr>
+            <tr><td><div class="column" draggable="true"><header>Consultar Todas Las facturas</header>
+            <div class="count" data-col-moves="txtCampoExt1"></div></div></td></tr>
 
-   <tr><td><div class="column" draggable="true"><header>Instalacion</header>
-  <div class="count" data-col-moves="txtCampo4"></div></div></td></tr>
-  
-     <tr><td><div class="column" draggable="true"><header>Consultar Liquidaciones</header>
-  <div class="count" data-col-moves="txtCampo5"></div></div></td></tr>
-  </table>
-</div>
-<div id="columns" style="display: inline-block;">
-<table  ><tr><td>
-<div style="height:330px; background: #D3D3D3; color:000;
-margin-left: 90px;" class="column" id="soltar"draggable="false"><header style="background: #D3D3D3;" id="cabecera">Accion</header>
-  <div class="count" data-col-moves=""  >Arrastre Aquí los Items que desea agregar </div>
+            <tr><td><div class="column" draggable="true"><header>Crear Agentes</header>
+            <div class="count" data-col-moves="txtCampo8"></div></div></td></tr>
 
-  </div></td></tr>
+            <tr><td><div class="column" draggable="true"><header>Estados De carga</header>
+            <div class="count" data-col-moves="txtCampo22"></div></div></td></tr>
+
+            <tr><td><div class="column" draggable="true"><header> Consolidados & GrpCon</header>
+            <div class="count" data-col-moves="txtCampoExt2"></div></div></td></tr>
+
+            <tr><td><div class="column" draggable="true"><header> Tranporte</header>
+            <div class="count" data-col-moves="txtCampo13"></div></div></td></tr>
+
+            <tr><td><div class="column" draggable="true"><header>Crear Facturas</header>
+            <div class="count" data-col-moves="txtCampoExt3"></div></div></td></tr>
+
+            <tr><td><div class="column" draggable="true"><header>Instalacion</header>
+            <div class="count" data-col-moves="txtCampo4"></div></div></td></tr>
+            
+            <tr><td><div class="column" draggable="true"><header>Consultar Liquidaciones</header>
+            <div class="count" data-col-moves="txtCampo5"></div></div></td></tr>
+        </table>
+    </div>
+    <div id="columns" style="display: inline-block;">
+    <table  ><tr><td>
+    <div style="height:330px; background: #D3D3D3; color:000;
+    margin-left: 90px;" class="column" id="soltar"draggable="false"><header style="background: #D3D3D3;" id="cabecera">Accion</header>
+    <div class="count" data-col-moves=""  >Arrastre Aquí los Items que desea agregar </div>
+
+    </div></td></tr>
 
 
-  </table>
-</div>
+    </table>
+    </div>
 
- 
     
-    </form>
-        <script languaje="javascript">nav();</script>
-     <script languaje="javascript">dataView();</script>
-    
-    <script language="javascript">function add_toast(tipo, mensaje){$().toastmessage(tipo, mensaje);}</script>
-    <script language="javascript"  src="dragjs.js"></script>
+        
+        </form>
+            <script languaje="javascript">nav();</script>
+        <script languaje="javascript">dataView();</script>
+        
+        <script language="javascript">function add_toast(tipo, mensaje){$().toastmessage(tipo, mensaje);}</script>
+        <script language="javascript"  src="dragjs.js"></script>
 
-</body>
+    </body>
 </html>
