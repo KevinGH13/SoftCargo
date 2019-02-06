@@ -43,7 +43,8 @@
 							<td>Direccion</td>
 							<td colspan="3"><input name='txtAddress' type='text' id="txtAddress" required /></td>
 						</tr>
-						<tr>
+						
+						<!--<tr>
 							<td>Pais </td>
 							<td colspan="3">
 								<input class="ID" style='width:137px;' name='txtCampo6' type='text' id="txtCampo6" size='50' placeholder="Pais"
@@ -51,18 +52,18 @@
 								<select name='CampoPais' style="width: 137px;" id="CampoPais">
 									<option value="">Seleccione Pais</option>
 									<option value="" disabled>------------</option>
-									<?php foreach ($list = sel8("1=1") as  $value): ?>
-									<option value="<?php echo $value[1] ?>">
-										<?php echo $value[0] ?>
+									<?php// foreach ($list = sel8("1=1") as  $value): ?>
+									<option value="<?php //echo $value[1] ?>">
+										<?php// echo $value[0] ?>
 									</option>
-									<?php endforeach ?>
+									<?php //endforeach ?>
 								</select>
 								<input style='width:137px;' name='txtCampo4' type='text' id="txtCampo4" size='50' placeholder="Ciudad" required />
 								<input class="ID" style='width:137px;' name='txtCampo5' type='text' id="txtCampo5" size='50' placeholder="Estado"
 								 required />
 
 							</td>
-						</tr>
+						</tr>-->
 						<tr>
 							<td>Codigo Postal</td>
 							<td colspan="2"><input style='width:137px;' name='txtPostalCode' type='text' id="txtPostalCode" size='50' required /></td>

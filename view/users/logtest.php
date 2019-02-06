@@ -1,0 +1,1 @@
+<?php error_log("Error message\n", 3, "/view/users/php.log"); ?>

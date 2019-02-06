@@ -21,22 +21,15 @@
 			$vrcNotes = $_REQUEST['txtNotes'];
 
 			//Send Data
-			$addInfo = insertData("tbl_?, DataBoxDeliveryFields, DataBoxdelivery"); 
 
+			$addInfo = insertData(
+				"tbl_boxdelivery",
+			
+				"int_ID, var_Name, var_Address, int_IDCountry, var_Country, var_State, var_PostalCode, var_Telephone, var_Email, 
+				var_BoxReceiver, var_BoxDispatcher, var_Date, var_Notes",
 
-		$addInfo =insertData(
-			"tbl_Guia",
-
-			"int_Guia,var_NombreRemit,var_DireccionRemit,var_CiudadRemit,var_EstadoRemit,var_PaisRemit,int_CodZipRemit,var_TelefonoRemit,var_EmailRemit,
-			var_NombreDest,var_DireccionDest,var_CiudadDest,var_EstadoDest,var_PaisDest,int_CodZipDest,var_TelefonoDest,var_EmailDest,
-			var_TipoPago,decimal_PesoManual,decimal_DimAltoManual,decimal_DimAnchoManual,decimal_DimLargoManual,decimal_PesoCobrado,
-			int_ValorDeclarado,int_ValorDeclaradoManual,int_ValorSeguro,int_ValorSeguroManual,int_CargosEmpresa,int_CargosAgente,int_Descuentos,int_TotalPagar,var_DescripcionContenido,int_Activo,var_Agente,int_factura,date_FechaEnvio,int_gananciaAgente",
-			//DATA
-			"".$vrcGuiaNumero[0][0].",'$vrcTex1','$vrcTex3','$vrcTex4','$vrcTex5','$vrcTex6','$vrcTex7','$vrcTex8','$vrcTex10',
-			'$vrcTex2','$vrcTex9','$vrcTex11','$vrcTex12','$vrcTex13','$vrcTex15','$vrcTex14','$vrcTex16',
-		    '$vrcTex27',$vrcTex17,$vrcTex31,$vrcTex32,$vrcTex21,$vrcPesoCo,
-			$vrcTexdeclarado,$vrcTex19,$vrcTexseguro,$vrcTex20,$vrcTex24,$vrcTex22,$vrcTex25,$vrcTextotal,'$vrcTex23',1,'$vrcTex0',$vrcTextarifa,now(),$gananciaAg"
-			);
+				"'null', '$vrcName', '$vrcAddress', '$vrcIdCountry', '$vrcCountry', '$vrcCity', '$vrcState', '$vrcPostalCode', '$vrcTelephone', '$vrcEmail', 
+				'$vrcBoxReceiver', '$vrcBoxDispatcher', '$vrcDate', '$vrcNotes'");
 		//echo "nfactura=".$vrcGuiaNumero[0][0]."&IDAgente=$vrcTex0";
 		}
 	}
